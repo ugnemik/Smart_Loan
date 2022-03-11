@@ -1,6 +1,6 @@
 # Smart Loan
 
-This is a completely responsive single-page website built with HTML, CSS, and vanilla Javascipt.
+This is a completely responsive single-page website built with HTML, CSS, and vanilla Javascipt for a fictional financial company.
 
 This may be used as a single-page sleek website template.
 
